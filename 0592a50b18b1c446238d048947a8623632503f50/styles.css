@@ -334,7 +334,7 @@ tr.note-row td.note-bg {
 
 }
 table.whole-row, table.whole-note, table#column-header, div.temp-wrapper {
-width: 2098px;
+width: 2230px;
 
 }
 /******************
@@ -361,8 +361,8 @@ tr#header td:nth-of-type(2), tr.outline-row > td:nth-of-type(2) {
     
 }
 tr#header td:nth-of-type(3), tr.outline-row > td:nth-of-type(3), tr.note-row > td:nth-of-type(3) { 
-    width: 254px; 
-    max-width: 254px; 
+    width: 250px; 
+    max-width: 250px; 
     
 }
 tr#header td:nth-of-type(4), tr.outline-row > td:nth-of-type(4), tr.note-row > td:nth-of-type(4) { 
@@ -371,31 +371,36 @@ tr#header td:nth-of-type(4), tr.outline-row > td:nth-of-type(4), tr.note-row > t
     
 }
 tr#header td:nth-of-type(5), tr.outline-row > td:nth-of-type(5), tr.note-row > td:nth-of-type(5) { 
-    width: 363px; 
-    max-width: 363px; 
+    width: 307px; 
+    max-width: 307px; 
     
 }
 tr#header td:nth-of-type(6), tr.outline-row > td:nth-of-type(6), tr.note-row > td:nth-of-type(6) { 
-    width: 309px; 
-    max-width: 309px; 
+    width: 320px; 
+    max-width: 320px; 
     
 }
 tr#header td:nth-of-type(7), tr.outline-row > td:nth-of-type(7), tr.note-row > td:nth-of-type(7) { 
-    width: 80px; 
-    max-width: 80px; 
+    width: 150px; 
+    max-width: 150px; 
     
 }
 tr#header td:nth-of-type(8), tr.outline-row > td:nth-of-type(8), tr.note-row > td:nth-of-type(8) { 
-    width: 108px; 
-    max-width: 108px; 
+    width: 90px; 
+    max-width: 90px; 
     
 }
 tr#header td:nth-of-type(9), tr.outline-row > td:nth-of-type(9), tr.note-row > td:nth-of-type(9) { 
+    width: 129px; 
+    max-width: 129px; 
+    
+}
+tr#header td:nth-of-type(10), tr.outline-row > td:nth-of-type(10), tr.note-row > td:nth-of-type(10) { 
     width: 172px; 
     max-width: 172px; 
     
 }
-tr#header td:nth-of-type(10), tr.outline-row > td:nth-of-type(10), tr.note-row > td:nth-of-type(10) { 
+tr#header td:nth-of-type(11), tr.outline-row > td:nth-of-type(11), tr.note-row > td:nth-of-type(11) { 
     width: 245px; 
     max-width: 245px; 
     
@@ -430,6 +435,9 @@ tr.outline-row > td:nth-of-type(9), tr.note-row > td:nth-of-type(9){
     
 }
 tr.outline-row > td:nth-of-type(10), tr.note-row > td:nth-of-type(10){ 
+    
+}
+tr.outline-row > td:nth-of-type(11), tr.note-row > td:nth-of-type(11){ 
     
 }
 
