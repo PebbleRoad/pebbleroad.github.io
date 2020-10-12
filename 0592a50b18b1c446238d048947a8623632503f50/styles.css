@@ -334,7 +334,7 @@ tr.note-row td.note-bg {
 
 }
 table.whole-row, table.whole-note, table#column-header, div.temp-wrapper {
-width: 2232px;
+width: 2238px;
 
 }
 /******************
@@ -352,22 +352,22 @@ tr#header td:nth-of-type(1), tr.outline-row > td:nth-of-type(1), tr.note-row > t
     max-width: 20px; 
 }
 table.outline-column { 
-    width: 274px; 
-    max-width: 274px; 
+    width: 272px; 
+    max-width: 272px; 
 }
 tr#header td:nth-of-type(2), tr.outline-row > td:nth-of-type(2) { 
-    width: 274px; 
-    max-width: 274px; 
+    width: 272px; 
+    max-width: 272px; 
     
 }
 tr#header td:nth-of-type(3), tr.outline-row > td:nth-of-type(3), tr.note-row > td:nth-of-type(3) { 
-    width: 249px; 
-    max-width: 249px; 
+    width: 199px; 
+    max-width: 199px; 
     
 }
 tr#header td:nth-of-type(4), tr.outline-row > td:nth-of-type(4), tr.note-row > td:nth-of-type(4) { 
-    width: 275px; 
-    max-width: 275px; 
+    width: 333px; 
+    max-width: 333px; 
     
 }
 tr#header td:nth-of-type(5), tr.outline-row > td:nth-of-type(5), tr.note-row > td:nth-of-type(5) { 
