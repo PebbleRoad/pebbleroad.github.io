@@ -334,7 +334,7 @@ tr.note-row td.note-bg {
 
 }
 table.whole-row, table.whole-note, table#column-header, div.temp-wrapper {
-width: 2314px;
+width: 2468px;
 
 }
 /******************
@@ -352,12 +352,12 @@ tr#header td:nth-of-type(1), tr.outline-row > td:nth-of-type(1), tr.note-row > t
     max-width: 20px; 
 }
 table.outline-column { 
-    width: 272px; 
-    max-width: 272px; 
+    width: 276px; 
+    max-width: 276px; 
 }
 tr#header td:nth-of-type(2), tr.outline-row > td:nth-of-type(2) { 
-    width: 272px; 
-    max-width: 272px; 
+    width: 276px; 
+    max-width: 276px; 
     
 }
 tr#header td:nth-of-type(3), tr.outline-row > td:nth-of-type(3), tr.note-row > td:nth-of-type(3) { 
@@ -386,23 +386,28 @@ tr#header td:nth-of-type(7), tr.outline-row > td:nth-of-type(7), tr.note-row > t
     
 }
 tr#header td:nth-of-type(8), tr.outline-row > td:nth-of-type(8), tr.note-row > td:nth-of-type(8) { 
+    width: 150px; 
+    max-width: 150px; 
+    
+}
+tr#header td:nth-of-type(9), tr.outline-row > td:nth-of-type(9), tr.note-row > td:nth-of-type(9) { 
+    width: 245px; 
+    max-width: 245px; 
+    
+}
+tr#header td:nth-of-type(10), tr.outline-row > td:nth-of-type(10), tr.note-row > td:nth-of-type(10) { 
     width: 90px; 
     max-width: 90px; 
     
 }
-tr#header td:nth-of-type(9), tr.outline-row > td:nth-of-type(9), tr.note-row > td:nth-of-type(9) { 
+tr#header td:nth-of-type(11), tr.outline-row > td:nth-of-type(11), tr.note-row > td:nth-of-type(11) { 
     width: 129px; 
     max-width: 129px; 
     
 }
-tr#header td:nth-of-type(10), tr.outline-row > td:nth-of-type(10), tr.note-row > td:nth-of-type(10) { 
+tr#header td:nth-of-type(12), tr.outline-row > td:nth-of-type(12), tr.note-row > td:nth-of-type(12) { 
     width: 172px; 
     max-width: 172px; 
-    
-}
-tr#header td:nth-of-type(11), tr.outline-row > td:nth-of-type(11), tr.note-row > td:nth-of-type(11) { 
-    width: 245px; 
-    max-width: 245px; 
     
 }
 
@@ -438,6 +443,9 @@ tr.outline-row > td:nth-of-type(10), tr.note-row > td:nth-of-type(10){
     
 }
 tr.outline-row > td:nth-of-type(11), tr.note-row > td:nth-of-type(11){ 
+    
+}
+tr.outline-row > td:nth-of-type(12), tr.note-row > td:nth-of-type(12){ 
     
 }
 
