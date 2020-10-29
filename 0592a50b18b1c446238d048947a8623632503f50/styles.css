@@ -334,7 +334,7 @@ tr.note-row td.note-bg {
 
 }
 table.whole-row, table.whole-note, table#column-header, div.temp-wrapper {
-width: 2468px;
+width: 2470px;
 
 }
 /******************
@@ -366,8 +366,8 @@ tr#header td:nth-of-type(3), tr.outline-row > td:nth-of-type(3), tr.note-row > t
     
 }
 tr#header td:nth-of-type(4), tr.outline-row > td:nth-of-type(4), tr.note-row > td:nth-of-type(4) { 
-    width: 332px; 
-    max-width: 332px; 
+    width: 334px; 
+    max-width: 334px; 
     
 }
 tr#header td:nth-of-type(5), tr.outline-row > td:nth-of-type(5), tr.note-row > td:nth-of-type(5) { 
